@@ -1,3 +1,15 @@
+Encontrei dificuldades em preparar o ambiente necessário, pois é a primeira vez que utilizo essas ferramentas para execução de testes em API.
+Escolhi as seguintes tecnologias:
+Para escrita em BDD: Cucumber JVM e Gherkin.
+Para teste de API: Rest Assured e Maven.
+Para escrita Eclipse Neon.
+Para avaliar a API utilizei POSTMAN além da documentação fornecida.
+
+Antes de efetuar o teste pedido, iniciei o teste na API /Info pois havia um menor grau de dificuldade.
+Não consegui, diante do paradigma novo e do pouco tempo para estudo preencher os .hearders();
+
+
+
 # Intelipost: Teste prático para analista de qualidade e testes
 
 Este é o teste usado por nós aqui da Intelipost para avaliar tecnicamente os candidatos a nossas vagas de analista de testes. Se você estiver participando de um processo seletivo para nossa equipe, certamente em algum momento receberá este link, mas caso você tenha chego aqui "por acaso", sinta-se convidado a desenvolver nosso teste e enviar uma mensagem para nós no e-mail lucas.teixeira@intelipost.com.br.
